@@ -10,6 +10,6 @@ public class HellManager : MonoBehaviour
     
     public void OnPlayButtonClicked()
     {
-        SceneManager.LoadScene("GamePlay", LoadSceneMode.Single);
+        SceneManager.LoadScene("GamePlay1", LoadSceneMode.Single);
     }
 }
